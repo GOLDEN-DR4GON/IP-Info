@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # 🔑 PUT YOUR BOT TOKEN HERE
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8253665096:AAFuYbkcoBeZk9nYZOEeUDLfvfQIXp7f1aM"
 
 
 class IPTool:
